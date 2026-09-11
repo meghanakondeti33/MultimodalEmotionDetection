@@ -94,3 +94,9 @@ desktop.ini
 
 # Generated NumPy data
 *.npy
+# README demo images
+!docs/
+!docs/images/
+!docs/images/*.png
+!docs/images/*.jpg
+!docs/images/*.jpeg
