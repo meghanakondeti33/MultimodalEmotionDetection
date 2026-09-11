@@ -1,0 +1,96 @@
+# ==============================
+# Python
+# ==============================
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# ==============================
+# Virtual Environment
+# ==============================
+venv/
+.venv/
+env/
+ENV/
+
+# ==============================
+# Jupyter Notebook
+# ==============================
+.ipynb_checkpoints/
+
+# ==============================
+# Large Datasets
+# ==============================
+Actor_*/
+audio_speech_actors_01-24/
+ravdess.zip
+
+# Audio datasets
+RAVDESS/
+savee/
+TESS*/
+Merged_Dataset/
+Clean_Merged_Dataset/
+
+# ==============================
+# Audio Files
+# ==============================
+*.wav
+*.mp3
+*.aac
+*.m4a
+*.flac
+*.ogg
+
+# ==============================
+# ML / Data Files
+# ==============================
+*.pkl
+*.pickle
+*.joblib
+*.h5
+
+# ==============================
+# Model checkpoints
+# ==============================
+*.keras
+
+# ==============================
+# Generated outputs
+# ==============================
+*.png
+*.jpg
+*.jpeg
+
+# ==============================
+# Logs
+# ==============================
+*.log
+
+# ==============================
+# OS files
+# ==============================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==============================
+# IDE
+# ==============================
+.vscode/
+.idea/
+
+# ==============================
+# Environment / Secrets
+# ==============================
+.env
+.env.*
+!.env.example
+# Large ML artifacts
+*.npz
+*.keras
+*.zip
+
+# Generated NumPy data
+*.npy
