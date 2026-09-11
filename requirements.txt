@@ -1,0 +1,18 @@
+# Core machine learning
+tensorflow
+numpy
+scikit-learn
+
+# Image and audio processing
+opencv-python
+librosa
+PyAudio
+
+# Data analysis and visualization
+pandas
+matplotlib
+seaborn
+
+# Notebook support
+jupyter
+ipykernel
